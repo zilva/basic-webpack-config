@@ -1,5 +1,5 @@
 # basic-webpack-config
-The basic webpack configuration
+The basic webpack configuration for react application
 
 To run the project
 step 1: npm i
